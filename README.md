@@ -25,7 +25,20 @@ The project focuses on:
 
 ---
 
+## Day 2
+
+### Tasks Completed
+- Implemented **dynamic news loading** from a `news.json` file using JavaScript.  
+- Created reusable **functions** for generating news cards and “More News” list items.  
+- Added a **More News section** with categories: World, Technology, and Sports, each displaying multiple news items.  
+- Integrated **scroll animations** (`fade-in`) using `IntersectionObserver` for smooth content appearance.  
+- Extended CSS to style the **More News section**, including category headers, news item layout, and hover effects.  
+- Ensured **consistent spacing, borders, and responsive behavior** for dynamically loaded content.
+
+---
+
 ## Technologies Used
 - **HTML5**
 - **CSS3** (custom properties, flexbox, grid)
+- **JavaScript** (DOM manipulation, fetch API, IntersectionObserver)
 - **Google Fonts**

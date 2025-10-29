@@ -1,0 +1,107 @@
+{
+  "breakingNews": [
+    {
+      "id": "bn1",
+      "title": "Breaking News: Hurricane Melissa hits Jamaica",
+      "category": "Breaking",
+      "image": "assets/images/huracan-melissa.jpg",
+      "summary": "Jamaican Prime Minister Andrew Holness declared the country a disaster area on Tuesday.",
+      "date": "2025-10-28"
+    },
+    {
+      "id": "bn2",
+      "title": "Breaking News: New US attack on Venezuela",
+      "category": "Breaking",
+      "image": "assets/images/EU attack venezuela.jpg",
+      "summary": "14 dead in new US attack on Venezuela, according to Defense Secretary Pete Hegseth.",
+      "date": "2025-10-27"
+    },
+    {
+      "id": "bn3",
+      "title": "Breaking News: Dodgers take lead in the World Series",
+      "category": "Breaking",
+      "image": "assets/images/Dodgers.jpg",
+      "summary": "After 18 innings against the Blue Jays, the Dodgers take the lead in the World Series.",
+      "date": "2025-10-26"
+    }
+  ],
+  "world": [
+    {
+      "id": "w1",
+      "title": "Escalating armed conflict is most urgent threat for world in 2025, say global leaders",
+      "category": "World",
+      "image": "assets/images/Escalating-armed-conflict.jpg",
+      "summary": "Global leaders have identified escalating armed conflict as the most immediate threat in 2025, with the ongoing war in Ukraine and violent conflicts in Sudan and Gaza being major concerns.",
+      "date": "2025-01-15"
+    },
+    {
+      "id": "w2",
+      "title": "China and Russia sign pipeline deal through Mongolia",
+      "category": "World",
+      "image": "assets/images/China and Russia.jpg",
+      "summary": "China and Russia sign a major energy deal to build a new gas pipeline through Mongolia, deepening their strategic and economic ties.",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "w3",
+      "title": "17th BRICS Leaders Summit opens in Rio de Janeiro focusing on global-south cooperation",
+      "category": "World",
+      "image": "assets/images/17th BRICS.jpg",
+      "summary": "The 17th BRICS Summit under theme “Strengthening Global South Cooperation and Promoting a More Inclusive and Sustainable Global Governance”.",
+      "date": "2025-07-06"
+    }
+  ],
+  "technology": [
+    {
+      "id": "t1",
+      "title": "Amazon cuts 14,000 corporate jobs as spending on AI accelerates",
+      "category": "Technology",
+      "image": "assets/images/Amazon.jpg",
+      "summary": "Amazon will cut about 14,000 corporate jobs as the online retail giant ramps up spending on artificial intelligence.",
+      "date": "2025-10-28"
+    },
+    {
+      "id": "t2",
+      "title": "EU finds Meta and TikTok in breach of transparency rules",
+      "category": "Technology",
+      "image": "assets/images/meta and tiktok.jpg",
+      "summary": "The European Commission announced preliminary findings that Meta and TikTok violated key provisions of the Digital Services Act, including lack of transparency around algorithms.",
+      "date": "2025-10-24"
+    },
+    {
+      "id": "t3",
+      "title": "Executive Order shifts U.S. AI policy to pro-innovation agenda",
+      "category": "Technology",
+      "image": "assets/images/U.S. AI policy.jpg",
+      "summary": "The U.S. Executive Order 14179 revokes parts of previous AI policy and initiates a new AI action plan focusing on competitiveness over regulation.",
+      "date": "2025-09-28"
+    }
+  ],
+  "sports": [
+    {
+      "id": "s1",
+      "title": "2025 FIFA Club World Cup broadcasting rights awarded to DAZN",
+      "category": "Sports",
+      "image": "assets/images/2025 FIFA DAZN.jpg",
+      "summary": "DAZN secured global rights to the 2025 FIFA Club World Cup, streaming all matches and reshaping sports media distribution.",
+      "date": "2025-07-13"
+    },
+    {
+      "id": "s2",
+      "title": "Rivalries reignite in Madrid and London, while Ohtani eyes World Series glory",
+      "category": "Sports",
+      "image": "assets/images/Rivalries in Madrid and London.jpg",
+      "summary": "Real Madrid vs Barcelona returns in LaLiga, England and Australia revive the Ashes series, and Shohei Ohtani leads the Dodgers into the World Series aiming for back-to-back titles.",
+      "date": "2025-10-24"
+    },
+    {
+      "id": "s3",
+      "title": "MLB sponsorship revenue up 9% to US$2.05bn in 2025",
+      "category": "Sports",
+      "image": "assets/images/MLB sponsorship revenue.jpg",
+      "summary": "Major League Baseball becomes the second North American sports competition to exceed US$2 billion in team sponsorship revenue, up 9% year-over-year.",
+      "date": "2025-10-28"
+    }
+
+  ]
+}
